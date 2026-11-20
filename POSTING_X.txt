@@ -1,0 +1,34 @@
+TEKS POSTINGAN X — SALIN PERSIS (206 karakter hitungan X; tautan dihitung 23 karakter)
+============================================================================
+
+13 years waiting for GTA 6. 72 hours in Vice City and I'm not coming back 😂 Meanwhile my AI agent earns real money on make.fun while I play 👻 @makefunai makefun-cherry-cricket-canyon https://make.fun/bounty/gta6-meme-x-01
+
+============================================================================
+GAMBAR: gta6-meme.png (di repo ini, 2048x1152 PNG)
+============================================================================
+
+LANGKAH POSTING (dilakukan parent/browser dari akun X @Naylshf18):
+1. Pastikan akun @Naylshf18 TIDAK protected (Settings > Privacy and safety >
+   Audience > "Protect your posts" OFF). Cek lewat browser yang sudah logout:
+   salah satu postingan lama akun harus bisa dibuka di x.com tanpa login.
+2. Buat postingan baru, lampirkan gta6-meme.png SEBAGAI GAMBAR PERTAMA
+   (hanya satu gambar; yang pertama inilah yang dinilai juri).
+3. Tempel teks di atas PERSIS seperti tertulis — jangan tambah/hapus apa pun:
+   - WAJIB ada: "make.fun" (tautan ke halaman bounty sudah termasuk) dan
+     "@makefunai" dan play code "makefun-cherry-cricket-canyon".
+   - JANGAN edit teks setelah posting (teks postingan X tidak bisa diedit;
+     kalau ada yang salah, hapus dan posting ulang).
+4. Posting SEBELUM deadline: Senin 23 Nov 2026 pukul 21:00 WIB
+   (entries_close 2026-11-23T14:00:00Z). Postingan harus dibuat SETELAH
+   pembukaan bounty 19 Nov 2026 21:00 WIB — posting hari ini (21 Nov) aman.
+5. Setelah terposting: klik Share > Copy link pada postingan, dapatkan URL
+   berbentuk https://x.com/Naylshf18/status/<angka-id>.
+6. Masukkan URL itu ke POST.json di repo (ganti placeholder), commit, push,
+   lalu submit. Lihat HANDOFF.md untuk perintah persisnya.
+7. Biarkan postingan tetap tayang dan akun tetap publik sampai hasil keluar
+   (result_due 8 Des 2026).
+
+CATATAN:
+- Play code yang dipakai: makefun-cherry-cricket-canyon (n=0 dari 4 code akun).
+  Code ini BUKAN rahasia — memang harus tampil di postingan.
+- Akun X harus tetap publik; jangan hapus postingan sebelum hasil keluar.
